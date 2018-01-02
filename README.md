@@ -1,6 +1,6 @@
-# cc-validation
+# Credit Card Validation
 
-a script that will check credit card numbers as the user is typing, and do the following:
+This is a script that will check credit card numbers as the user is typing, and do the following:
 <ul>
   <li>Determine if the card is Visa, MasterCard, Discover, American Express, or other and display the corresponding icon</li>
   <li>Put spaces between groups of numbers in the appropriate place based on card type</li>
